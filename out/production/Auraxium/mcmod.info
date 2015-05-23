@@ -1,0 +1,21 @@
+[
+{
+    "modid": "Auraxium",
+    "name": "Auraxium",
+    "description": "My first mod based off of Pahimar's Let's Mod Reboot series",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "Carbon"
+    ],
+    "credits": "Pahimar's Let's Mod Reboot series",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent": "",
+    "dependencies": [
+    ]
+}
+]

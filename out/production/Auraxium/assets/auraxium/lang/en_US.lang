@@ -1,0 +1,21 @@
+# Creative Tabs
+itemGroup.auraxium=Auraxium
+
+# Items
+item.auraxium:auraDust.name=Aura Dust
+item.auraxium:smallAuraDust.name=Small Pile of Aura Dust
+item.auraxium:auraRod.name=Aura Rod
+item.auraxium:auraInfusedIngot.name=Aura Infused Ingot
+item.auraxium:auraInfusedGem.name=Aura Infused Gem
+
+# Blocks
+tile.auraxium:auraDustBlock.name=Block of Aura Dust
+tile.auraxium:auraInfusedPlanks.name=Aura Infused Planks
+tile.auraxium:auraInfusedFurnace.name=Aura Infused Furnace
+tile.auraxium:auraInfusedIngotBlock.name=Block of Aura Infused Ingots
+tile.auraxium:auraInfusedGemBlock.name=Block of Aura Infused Gems
+
+# Keys
+keys.auraxium.category=Auraxium
+keys.auraxium.charge=Charge
+keys.auraxium.release=Release
