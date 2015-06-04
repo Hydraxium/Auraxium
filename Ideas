@@ -1,0 +1,55 @@
+Auraxium
+  Core
+    - World Gen
+      - Ores
+      - Biomes
+    - GUIs
+    - Basic Items
+      - Armour
+      - Tools
+  Machines
+    - Oxidizer
+    - Pressure Washer
+    - Ore Grinder
+    - Centrifuge
+    - Powered Furnace
+    - Casting Machine (One-Time-Use Ceramic Casts, Eullym Casts)
+    - Infuser
+  Decor
+    - Lamps
+    - Compressed Item Storage Blocks
+    - Dust Infused Blocks (Similar to Magical Crops)
+  Energy
+    - Transdimensional Arcanic Battery
+    - Electro-arcanic Generator
+    - Arcana Units (AR)
+  Ores
+    - Copper Ore
+    - Tin Ore
+    - Silver Ore
+    - Lead Ore
+    - Zinc Ore
+    - Nickel Ore
+    - Eullym Ore
+    - Aloria Ore (Drops Aloria Dust)
+    - Siana Ore (Drops Siana Dust)
+    - Idan Ore (Drops Idan Dust)
+  Metals
+    - Copper Ingot
+    - Tin Ingot
+    - Bronze Ingot
+    - Silver Ingot
+    - Lead Ingot
+    - Zinc Ingot
+    - Brass Ingot
+    - Nickel Ingot
+    - Eullym Ingot
+  Gems
+    - Inert Crystal
+    - Aloria Crystal
+    - Siana Crystal
+    - Idan Crystal
+  Tools
+    - Basic Tools (Pickaxe, shovel, axe, sword, hoe)
+    - Basic Armour (Helmet, chestpiece, leggings, boots)
+    - Some type of wrench
